@@ -5,7 +5,7 @@ A powerful and scalable web application designed to streamline the tendering pro
 
 ## Features
 
-- **Real-time bid submission** for transparent, secure, and automated tender processes.
+- **Real-time bid submission** for transparent, secure, and automated tender processes
 - **Role-based access** for Admins, Bidders, and Reviewers.
 - **Real-time updates** to keep all parties informed about the status of tenders.
 - **Detailed Tender Tracking** from creation to awarding.
