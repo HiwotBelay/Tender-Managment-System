@@ -1,5 +1,5 @@
 # Real-Time Tender Management System
-A powerful and scalable web application designed to streamline the tendering process with real-time bid submission, role-based access, and full automation. Ideal for organizations managing tenders and contracts, it ensures transparency, security, and efficiency throughout the entire tender lifecycle.......................
+A powerful and scalable web application designed to streamline the tendering process with real-time bid submission, role-based access, and full automation. Ideal for organizations managing tenders and contracts, it ensures transparency, security, and efficiency throughout the entire tender lifecycle........................
 
 ---
 
